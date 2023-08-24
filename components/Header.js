@@ -24,7 +24,7 @@ const Header = () => {
       <Tabs aria-label="navigation tabs">
         <Tab label="Home" href="/" />
         <Tab label="Resume" href="/resume" />
-        <Tab label="My Work" href="/work" />
+        <Tab label="My Work" href="/projects" />
         <Tab label="My Music" href="/music" />
         <Tab label="Contact" href="/contact" />
       </Tabs>

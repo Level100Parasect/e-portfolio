@@ -18,7 +18,6 @@ const HomePage = () => {
     <div className={classes.root}>
       <Header />
       <Container maxWidth="md">
-        {/* Use Typography component for your text */}
         <Typography variant="h1" align="center" gutterBottom>
           Hello, this is still in progress
         </Typography>
